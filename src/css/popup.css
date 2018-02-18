@@ -1,0 +1,11 @@
+html, body
+{
+}
+
+div#connected {
+    background-color: green;
+    display: none;
+    text-align: center;
+    padding: 3px;
+    width: 400px;
+}
